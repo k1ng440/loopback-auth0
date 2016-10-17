@@ -1,0 +1,8 @@
+{
+  "globalDependencies": {
+    "auth0": "registry:dt/auth0#0.0.0+20160817004602",
+    "bluebird": "registry:dt/bluebird#3.0.0+20160928162057",
+    "express-jwt": "registry:dt/express-jwt#0.0.0+20160629014920",
+    "xtend": "registry:dt/xtend#4.0.1+20161008175814"
+  }
+}

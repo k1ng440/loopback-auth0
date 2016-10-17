@@ -1,0 +1,32 @@
+{
+  "name": "loopback-auth0",
+  "version": "0.0.5",
+  "description": "Auth0 middleware for auth0",
+  "main": "jwt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k1ng440/loopback-auth0.git"
+  },
+  "keywords": [
+    "Auth0",
+    "loopback",
+    "strongloop",
+    "oauth2",
+    "oauth"
+  ],
+  "author": "Asaduzzaman Pavel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k1ng440/loopback-auth0/issues"
+  },
+  "homepage": "https://github.com/k1ng440/loopback-auth0#readme",
+  "dependencies": {
+    "auth0": "^2.5.0",
+    "bluebird": "^3.4.6",
+    "express-jwt": "^5.1.0",
+    "xtend": "^4.0.1"
+  }
+}
